@@ -1,0 +1,19 @@
+{
+  "name": "discordwebhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-hook-api": "^1.0.3",
+    "express": "^4.17.2",
+    "node-fetch": "^3.2.0",
+    "nodemon": "^2.0.15",
+    "webhook-discord": "^3.7.8"
+  }
+}
